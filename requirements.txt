@@ -1,0 +1,6 @@
+Matplotlib 3.8.3
+pandas 2.2.3 
+openpyx1 3.1.5 
+scipy 1.14.1 
+panal 1.5.4
+numpy 1.26.4
