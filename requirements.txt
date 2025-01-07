@@ -7,3 +7,4 @@ panal 1.5.4
 numpy 2.1.3
 hvplot 0.11.1
 jupyter_bokeh 4.0.5
+statsmodels 0.14.4
