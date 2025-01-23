@@ -1,2 +1,2 @@
-[FILES]
-ruw_data="/Ruwe_Data/"
+clean_data_2023.xlsx
+clean_data_2024.xlsx

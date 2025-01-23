@@ -1,0 +1,6 @@
+test_one.xlsx
+None
+test2.csv
+test.txt
+@.fake
+%$#.error
