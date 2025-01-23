@@ -3,13 +3,13 @@ Made by Ivar Lottman
 Project owner: Fenna Feenstra  
 Teachers: Michiel Noback and Bart Barnard
 
-## introduction
+## Introduction
 Introduction Regeneratieve farming project  
 Regenertive farming is a method of farming aimd at restoring and improving the siol end ecosystem, preffrebly by using natural procceses to its advantige. This study focusus on the optimalisation of natural fertelizer.
 For this 3 treatment fertelizers where used: Airation, grander and a combination of them. 
 The goal if this project is to visualize the gras yeald data in a dashboard for both farmers and regulators aswel as researchers.
 
-#### instalation guide
+#### Instalation guide
 To run this dashboard you first need to instal python 3.14 or higher
 After that install all of the packeges in the requirements.txt file with:
 
@@ -33,7 +33,7 @@ panel serve main.py
 
 In case this doesnt work please look at the bug section of this readme
 
-#### explanation reposetory
+#### Explanation reposetory
 Logboek directory
 In this directory are the exploretory data analysis, personal logfile and the hostingplan for this project.
 
@@ -103,7 +103,7 @@ In the anova tab the first checkboxlist is the factors you can chose to have in 
 
 ![kruskal](/static/kruskal.PNG)
 
-#### programmer guide
+#### Programmer guide
 Main.py
 Main module that loads in the data with utils.py function and displays it with panel_view.py function
 
