@@ -134,6 +134,7 @@ For orininal data gathering refrences please contact Fenna Feenstra
 For coding based information contact Ivar Lottman
 
 #### Honerary mentions
+Fenna Feenstra for giving me this fun agracultural project  
 Michiel Noback for helping with visualisation choices and bugfixes  
 Bart Barnard for helping with bugfixes and statistics  
 Loes Oldhoff for helping with bugfixes  
