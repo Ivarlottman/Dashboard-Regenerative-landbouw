@@ -1,5 +1,5 @@
 # Project dashboard regenerative farming
-Made by Ivar Lottman
+Made by Ivar Lottman  
 Project owner: Fenna Feenstra  
 Teachers: Michiel Noback and Bart Barnard
 
